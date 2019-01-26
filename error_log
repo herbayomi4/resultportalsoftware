@@ -1,0 +1,110 @@
+[22-Apr-2018 08:15:15 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 08:17:40 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 08:17:40 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 08:17:42 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 08:17:43 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 08:26:57 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 09:00:15 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 09:07:15 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 09:46:23 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:00:31 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:00:31 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:00:45 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:00:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:01:09 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:06:01 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:06:01 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:06:48 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:06:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:07:16 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/get_list.php on line 6
+[22-Apr-2018 10:07:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/get_list.php on line 6
+[22-Apr-2018 10:08:55 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/do_portal.php on line 10
+[22-Apr-2018 10:08:55 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/do_portal.php on line 10
+[22-Apr-2018 10:09:08 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:09:35 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:09:35 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:16:48 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:16:48 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:16:48 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:16:48 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:43:41 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:44:09 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:44:09 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:44:45 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:48:05 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:49:15 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 10:49:46 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:49:46 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 10:54:06 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:06 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:06 America/New_York] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:09 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:09 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:09 America/New_York] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:12 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:12 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:12 America/New_York] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:14 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:14 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:14 America/New_York] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:16 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:16 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 10:54:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 12:07:26 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 12:27:56 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 12:27:56 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 12:27:56 America/New_York] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 12:28:08 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 12:28:34 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 12:28:34 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 12:29:14 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 12:29:14 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 12:31:52 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 13:02:43 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 13:04:53 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 13:04:56 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 13:04:57 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 13:44:12 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 13:54:58 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 13:58:44 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 13:58:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 13:59:01 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 13:59:01 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:03:37 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 14:04:19 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:04:19 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:04:46 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:04:46 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:04:54] PHP Warning:  require_once(Classes/PHPExcel.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:04:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php52/usr/share/pear:/opt/alt/php52/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:05:04 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:05:04 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:06:34 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:06:34 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:13:37 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 14:17:02 America/New_York] PHP Warning:  require_once(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:17:02 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Classes/PHPExcel.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/co_portal.php on line 8
+[22-Apr-2018 14:23:20 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 14:31:25 America/New_York] PHP Warning:  require(/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php): failed to open stream: No such file or directory in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 14:31:25 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 14:42:17 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 14:42:44 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 14:43:05 America/New_York] PHP Warning:  require(/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php): failed to open stream: No such file or directory in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 14:43:05 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 14:43:16 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 14:45:09 America/New_York] PHP Warning:  require(/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php): failed to open stream: No such file or directory in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 14:45:09 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 15:11:40 America/New_York] PHP Warning:  require(/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php): failed to open stream: No such file or directory in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 15:11:40 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/racohabl/public_html/Classes/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/Classes/PHPExcel.php on line 32
+[22-Apr-2018 15:20:03 America/New_York] PHP Fatal error:  Class 'PHPExcel_Shared_String' not found in /home/racohabl/public_html/Classes/PHPExcel/Autoloader.php on line 36
+[22-Apr-2018 15:42:22 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 15:42:25 America/New_York] PHP Fatal error:  Class 'PHPExcel_Shared_String' not found in /home/racohabl/public_html/Classes/PHPExcel/Autoloader.php on line 36
+[22-Apr-2018 15:42:43 America/New_York] PHP Fatal error:  Class 'PHPExcel_Shared_String' not found in /home/racohabl/public_html/Classes/PHPExcel/Autoloader.php on line 36
+[22-Apr-2018 15:42:59 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 15:42:59 America/New_York] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 15:42:59 America/New_York] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/racohabl/public_html/student_portal.php on line 1
+[22-Apr-2018 15:43:09 America/New_York] PHP Fatal error:  Class 'PHPExcel_Shared_String' not found in /home/racohabl/public_html/Classes/PHPExcel/Autoloader.php on line 36
+[22-Apr-2018 16:16:00 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 16:16:09 America/New_York] PHP Notice:  Undefined index: username in /home/racohabl/public_html/index.php on line 40
+[22-Apr-2018 17:09:59 America/New_York] PHP Parse error:  syntax error, unexpected ':' in Command line code on line 1
+[22-Apr-2018 17:10:24 America/New_York] PHP Parse error:  syntax error, unexpected ':' in Command line code on line 1
